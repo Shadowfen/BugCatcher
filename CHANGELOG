@@ -1,5 +1,6 @@
 [COLOR="DeepSkyBlue"]021[/COLOR]:
 [LIST]
+[*] Added a /bugs chat command to open up the BugCatcher settings page. (requested by MycroftJr)
 [*] API bump.
 [/LIST]
 

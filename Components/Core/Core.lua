@@ -34,6 +34,7 @@ function bugCatcherAddon.onLoad(_, addonName)
     type                    = "panel",
     name                    = "Bug Catcher",
     displayName             = function() return LOM:Format("<<LOM-BLUE>>BugCatcher<<LOM-WHITE>> - <<LOM-RED>>Bug Log<<LOM-CLEAR>>", {BLUE=LOM.blueColor, WHITE=LOM.clearToWhite, RED=LOM.redColor, CLEAR=LOM.clearColor}) end,
+	slashCommand            = "/bugs",
     registerForRefresh      = true
   }
 
