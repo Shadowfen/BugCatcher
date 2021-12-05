@@ -1,3 +1,14 @@
+[COLOR="DeepSkyBlue"]025[/COLOR]:
+[LIST]
+[*] API bump.
+[*] Require minimum version of installed LibAddonMenu to be at least 32. Earlier versions will break the user interface.
+[/LIST]
+
+[COLOR="DeepSkyBlue"]024[/COLOR]:
+[LIST]
+[*] API bump - Flames of Ambition.
+[/LIST]
+
 [COLOR="DeepSkyBlue"]023[/COLOR]:
 [LIST]
 [*] API bump - Blackwood.
