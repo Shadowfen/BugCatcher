@@ -2,7 +2,7 @@ local SF = LibSFUtils
  
 BugCatcher = {
     name = "BugCatcher",
-    version = "026",
+    version = "027",
 	author = "Werewolf Finds Dragon, Shadowfen",
     displayName = "Bug Catcher - Updated",
 }
