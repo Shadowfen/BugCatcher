@@ -1,7 +1,7 @@
 ## Title: BugCatcher
 ## Author: Werewolf Finds Dragon, Shadowfen
-## APIVersion: 101033 101034
-## AddonVersion: 027
+## APIVersion: 101036 101037
+## AddonVersion: 028
 ## DependsOn: LibAddonMenu-2.0>=32 LibSFUtils>=38
 ## SavedVariables: bugCatcherAddonDB
 
