@@ -235,7 +235,7 @@ end
 
   EVENT_MANAGER:RegisterForEvent("BugCatcher_ErrorHandler", EVENT_LUA_ERROR,
       BugCatcher.errorHandler)
-  EVENT_MANAGER:RegisterForEvent("BugCatcher_MemoryHandler", EVENT_LUA_LOW_MEMORY,
-      BugCatcher.errorHandler)
+  --EVENT_MANAGER:RegisterForEvent("BugCatcher_MemoryHandler", EVENT_LUA_LOW_MEMORY,
+  --    BugCatcher.errorHandler)
 	  
   EVENT_MANAGER:RegisterForEvent("BugCatcher_OnLoad", EVENT_ADD_ON_LOADED, onLoad)
